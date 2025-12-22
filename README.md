@@ -1,6 +1,6 @@
 # ShieldMod
 
-I love playing with shields, so I'm making this for whoever loves that too.
+I love playing with shields, so I'm making this for whoever loves that too!
 
 Spawn a ballistic shield with numpad 5. Make sure to hit Num Lock first, or it won't work!
 
